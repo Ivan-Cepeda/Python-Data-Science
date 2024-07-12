@@ -1,0 +1,25 @@
+,Fecha de Venta,Producto,Cantidad Vendida,Precio Unitario,Total de Ventas,Región
+0,2022/01/01,ProductoA,100,10,1000,Norte
+1,2022/01/01,ProductoB,50,20,1000,Norte
+2,2022/02/01,ProductoA,80,10,800,Sur
+3,2022/02/01,ProductoC,120,15,1800,Sur
+4,2022/03/01,ProductoB,70,20,1400,Este
+5,2022/03/01,ProductoC,90,15,1350,Este
+6,2022/04/01,ProductoA,60,10,600,Oeste
+7,2022/04/01,ProductoB,40,20,800,Oeste
+8,2022/05/01,ProductoA,110,10,1100,Norte
+9,2022/05/01,ProductoC,60,15,900,Norte
+10,2022/06/01,ProductoB,80,20,1600,Sur
+11,2022/06/01,ProductoC,100,15,1500,Sur
+12,2022/07/01,ProductoA,70,10,700,Este
+13,2022/07/01,ProductoB,50,20,1000,Este
+14,2022/08/01,ProductoC,120,15,1800,Oeste
+15,2022/08/01,ProductoA,60,10,600,Oeste
+16,2022/09/01,ProductoB,90,20,1800,Norte
+17,2022/09/01,ProductoC,40,15,600,Norte
+18,2022/10/01,ProductoA,80,10,800,Sur
+19,2022/10/01,ProductoB,60,20,1200,Sur
+20,2022/11/01,ProductoC,100,15,1500,Este
+21,2022/11/01,ProductoA,70,10,700,Este
+22,2022/12/01,ProductoB,50,20,1000,Oeste
+23,2022/12/01,ProductoC,30,15,450,Oeste
